@@ -1,7 +1,5 @@
 # Udacity__Building-Agents__FINAL-PROJECT
 
-# Course / Project Overview
-
 ## Course
 - **Course name:** Building Agents
 - **Current lesson/project area:** UdaPlay - An AI Research Agent for the Video Game Industry
