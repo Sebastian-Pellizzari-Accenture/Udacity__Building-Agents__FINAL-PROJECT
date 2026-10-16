@@ -4,7 +4,7 @@
 - **Course name:** Building Agents
 - **Current lesson/project area:** UdaPlay - An AI Research Agent for the Video Game Industry
 - **Current page:** Project Workspace
-- **Course link:** [Open the course in Udacity](https://learn.udacity.com/cd14524?version=1.5.9&lessonKey=099030d8-88b2-428d-ab17-5b5c6738ed93&conceptKey=ae2c2a0b-2445-491d-8806-65468ade0113)
+- **Course link:** [Open the course in Udacity](https://learn.udacity.com/cd14524)
 
 ## What I have learned
 During this course/project, you’ve been building practical agent skills around designing AI systems that can do more than just answer from memory.
