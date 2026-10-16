@@ -18,7 +18,8 @@ During this course/project, you’ve been building practical agent skills around
 - **External API integration**: Connecting agents to outside services and using those results in responses.
 - **Agentic RAG workflows**: Combining retrieval with agent reasoning so the agent can decide which source or tool to use.
 - **Domain-focused research agents**: Applying these ideas to a specific use case: researching the video game industry with a toy example "UdaPlay".
-- **Memory**: Giving the agent a short term and a long term memory. 
+- **Memory**: Giving the agent access to **short-term memory** for the current task and **long-term memory** for reusable information
+
 
 ## Project summary
 In this project, you are working in a hands-on workspace to build or explore an AI research agent for the video game industry. The project focuses on giving the agent access to useful external information sources so it can produce more grounded, relevant, and up-to-date answers.
